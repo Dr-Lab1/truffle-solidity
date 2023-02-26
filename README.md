@@ -14,5 +14,3 @@ Truffle est un environnement de développement, un cadre de test et un pipeline 
 
 ___
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Lab1&theme=tokyonight)
